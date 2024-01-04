@@ -28,7 +28,7 @@ The EurCA Lending System is a decentralized smart contract-based lending platfor
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/IvanBurnOut/EurCA
+   git clone https://github.com/CapellConsulting/EurCA
    cd eurca
    
 2. Install dependencies:
