@@ -1,0 +1,27 @@
+{
+  "name": "eurca",
+  "version": "1.0.0",
+  "description": "EurCA Service for banks. Collateralize your liquidity for a loan, everything will be accorded and registered in the blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EurCA"
+  ],
+  "author": "www.capellconsulting.com by Ivan Brunato©",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "express": "^4.18.2",
+    "ganache": "^7.9.1",
+    "nodejs": "^0.0.0",
+    "truffle": "^5.11.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
