@@ -61,7 +61,7 @@ For any inquiries or support, please contact me at [hello@capellconsulting.com].
 
 ---
 
-<a align="left" href="https://www.capellconsulting.com/">
+<a align="mid" href="https://www.capellconsulting.com/">
   <img src="logo.png">
-  &copy; 2024 CapellConsulting. All Rights Reserved.
 </a>
+&copy; 2024 CapellConsulting. All Rights Reserved.
